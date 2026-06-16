@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 이가원 포트폴리오",
+  "description": "Lovely \u0026 Clean Minimal style portfolio website for elin (이가원).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
